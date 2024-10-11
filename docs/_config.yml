@@ -27,7 +27,7 @@ github_username:  diffstack
 
 # Build settings
 markdown: kramdown
-remote_theme: Mundana
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
