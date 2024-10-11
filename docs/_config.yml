@@ -21,20 +21,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Poonam
+      site:           https://www.diffstack.co
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Poonam, the author of diffstack, the stack you're currently previewing. I hope you like it!"
+      email:          poonamagarwal01@outlook.com
+      twitter:        https://twitter.com/_agarwal_poonam
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Himanshu
+      site:           https://www.diffstack.co
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            ""
+      email:          <>
+      twitter:        https://twitter.com/<>
  
 # Defaults
 defaults:
