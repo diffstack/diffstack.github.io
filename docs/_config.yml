@@ -20,18 +20,18 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    poonam:
       name:           Poonam
       site:           https://www.diffstack.co
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Poonam, the author of diffstack, the stack you're currently previewing. I hope you like it!"
       email:          poonamagarwal01@outlook.com
       twitter:        https://twitter.com/_agarwal_poonam
 
-    jane:
+    himanshu:
       name:           Himanshu
       site:           https://www.diffstack.co
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            ""
       email:          <>
       twitter:        https://twitter.com/<>
@@ -44,8 +44,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: poonam
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
