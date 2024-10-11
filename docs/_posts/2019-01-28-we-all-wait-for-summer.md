@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "We all wait for summer"
-author: jane
-categories: [ Jekyll, tutorial ]
+author: himanshu
+categories: [ tutorial ]
 image: assets/images/1.jpg
 tags: [featured]
 ---

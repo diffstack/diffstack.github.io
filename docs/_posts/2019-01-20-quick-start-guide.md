@@ -2,24 +2,24 @@
 layout: post
 title:  "Quick Start Guide"
 author: poonam
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/12.jpg
 ---
 
-If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
+If you already have a full Ruby development environment with all headers and RubyGems installed (see ’s requirements), you can create a new  site by doing the following:
 
 ```ruby
-# Install Jekyll and Bundler gems through RubyGems
-gem install jekyll bundler
+# Install  and Bundler gems through RubyGems
+gem install  bundler
 
-# Create a new Jekyll site at ./myblog
-jekyll new myblog
+# Create a new  site at ./myblog
+ new myblog
 
 # Change into your new directory
 cd myblog
 
 # Build the site on the preview server
-bundle exec jekyll serve
+bundle exec  serve
 
 # Now browse to http://localhost:4000
 ```
