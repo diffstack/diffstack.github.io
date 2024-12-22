@@ -31,7 +31,5 @@ The first step is Build where the executable is created from the code written by
 
 As a part of automation, there are feedback loops in each iteration of automation that help get the stakeholders' feedback and evaluate the system. Since there is iteration and feedback involved in a very early stage, the changes are easy to adapt and address. 
 
-There are architects and subject matter experts who have expertise in a single technology. This helps in handling all the issues in the system providing learning opportunities by doing.
-
 DevOps as a culture gives opportunities to innovate and explore different tools &  technologies in comparison to siloed roles in traditional software development.
 
