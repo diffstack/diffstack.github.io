@@ -3,7 +3,6 @@ layout: post
 title:  "Traditional Vs DevOps Software Development Approach"
 author: poonam
 categories: [ tutorial ]
-image: assets/images/devops-traditional.png
 ---
 
 
