@@ -3,7 +3,6 @@ layout: post
 title:  "Is your system robust? Yes/No? Have you asked these questions?"
 author: poonam
 categories: [ tutorial ]
-image: assets/images/home.jpg
 tags: [infra]
 ---
 
